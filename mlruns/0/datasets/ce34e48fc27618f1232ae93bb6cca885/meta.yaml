@@ -1,0 +1,14 @@
+digest: 7c0ab16e
+name: dataset
+profile: '{"num_rows": 734, "num_elements": 8074}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Age", "required": true}, {"type":
+  "long", "name": "Sex", "required": true}, {"type": "long", "name": "ChestPainType",
+  "required": true}, {"type": "long", "name": "RestingBP", "required": true}, {"type":
+  "long", "name": "Cholesterol", "required": true}, {"type": "long", "name": "FastingBS",
+  "required": true}, {"type": "long", "name": "RestingECG", "required": true}, {"type":
+  "long", "name": "MaxHR", "required": true}, {"type": "long", "name": "ExerciseAngina",
+  "required": true}, {"type": "double", "name": "Oldpeak", "required": true}, {"type":
+  "long", "name": "ST_Slope", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Hype AMD", "mlflow.source.name": "c:/Ngodink/modelling.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
